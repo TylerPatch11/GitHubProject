@@ -20,10 +20,13 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
-          <a href='/TomHolland ' className='card'>
-            <h3>About Me Page &rarr;</h3>
-            <p>Click here to navigate about me</p>
-          </a>
+          // <a href='/TomHolland ' className='card'>
+          //   <h3>About Me Page &rarr;</h3>
+          //   <p>Click here to navigate about me</p>
+          // </a>
+    <p>
+    My name is tyler paccione, I am a student at the university of colorado at boulder. I like to ski, be outside, and have fun with frientds. As for skiing my favrote mountian is arapahoe basin in colorado. When I grow up I want ot be a software dev, more specficly I want to become a backend dev. I would also love to do game desgin becuase I love the creatvity that game desgin allows for. I am from southbury CT
+    <p>
 
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
